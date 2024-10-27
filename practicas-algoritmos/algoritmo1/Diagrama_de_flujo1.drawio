@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Página-1" id="Vl5qINy0rMu32SNiZ-Cy">
+    <mxGraphModel dx="1393" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vr94M2mc5-o1jLqnoD1-1" target="7vr94M2mc5-o1jLqnoD1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="300" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vr94M2mc5-o1jLqnoD1-2" target="7vr94M2mc5-o1jLqnoD1-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-2" value="Mostrar mensaje: &quot;Por favor, ingrese una palabra&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="140" width="185" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vr94M2mc5-o1jLqnoD1-4" target="7vr94M2mc5-o1jLqnoD1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vr94M2mc5-o1jLqnoD1-4" target="7vr94M2mc5-o1jLqnoD1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-4" value="&lt;div&gt;Definir la variable cantidad_letras y asignarle la longitud de palabra_ingresada&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="267" y="290" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vr94M2mc5-o1jLqnoD1-6" target="7vr94M2mc5-o1jLqnoD1-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; Mostrar mensaje: &quot;La palabra ingresada tiene&quot;, cantidad_letras, &quot;letras.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mostrar mensaje: &quot;La palabra ingresada tiene&quot;, cantidad_letras, &quot;letras.&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="460" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7vr94M2mc5-o1jLqnoD1-8" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
